@@ -1,5 +1,6 @@
 "Resource/UI/HudPlayerClass.res"
 {
+
 	"HudPlayerClass"
 	{
 		"ControlName"								"EditablePanel"

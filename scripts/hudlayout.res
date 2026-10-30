@@ -1,5 +1,3 @@
-#base "crosshairs/crosshairs.res"
-
 "Scripts/HudLayout.res"
 {
 	"HudPlayerStatus"
@@ -19,6 +17,7 @@
 		"enabled"									"1"
 		"xpos"										"0"
 		"ypos"										"0"
+	"zpos"											"-10"
 		"wide"										"f0"
 		"tall"										"f0"
 	}
@@ -417,6 +416,9 @@
 		"fieldName"									"HudCrosshair"
 		"visible"									"1"
 		"enabled"									"1"
+		"xpos"										"rs1+125"
+		"ypos"										"rs1+180"
+		"zpos"										"111111"
 		"wide"										"640"
 		"tall"										"480"
 	}
