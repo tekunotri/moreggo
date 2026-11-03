@@ -41,7 +41,7 @@
 		"pin_to_sibling"							"AmmoAnchor"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
-		"textinsety"								"-5"
+		"textinsety"								"0"
 	}
 	"ammobox"
 	{
@@ -53,6 +53,35 @@
 		"ypos"		"0"
 		"zpos"		"-22"
 		"pin_to_sibling"			"AmmoInClip"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPLEFT"
+		"paintBackground"			"1"
+		"bgcolor_override"			"TransparentLightBlack"
+	}
+	"ggobullet"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ggobullet"
+		"tall"			"24"
+		"wide"			"24"
+		"xpos"			"47"
+		"ypos"			"1"
+		"image"			"replay/thumbnails/ggobullet"
+		"scaleImage"	"1"
+		"pin_to_sibling"			"ammobox"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPLEFT"
+	}
+	"bulletbox"
+	{
+		"ControlName"	"Panel"
+		"fieldName"	"bulletbox"
+		"tall"		"22"
+		"wide"		"22"
+		"xpos"		"-1"
+		"ypos"		"-1"
+		"zpos"		"-22"
+		"pin_to_sibling"			"ggobullet"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 		"paintBackground"			"1"
@@ -89,7 +118,7 @@
 	"AmmoNoClip"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmonoClip"
+		"fieldName"									"AmmoNoClip"
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
