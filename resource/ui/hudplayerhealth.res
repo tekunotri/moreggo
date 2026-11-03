@@ -39,12 +39,9 @@
 		"fieldName"	"healthbox"
 		"tall"		"22"
 		"wide"		"80"
-		"xpos"		"-23"
-		"ypos"		"0"
+		"xpos"		"rs1-44"
+		"ypos"		"rs1-72"
 		"zpos"		"-22"
-		"pin_to_sibling"			"HealthValue"
-		"pin_corner_to_sibling"		"PIN_TOPLEFT"
-		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 		"paintBackground"			"1"
 		"bgcolor_override"			"TransparentLightBlack"
 	}
@@ -175,12 +172,13 @@
 	//==================================================================================================================================================
 	// PLAYER HEALTH
 	//==================================================================================================================================================
+	//temporary positioning
 	"HealthValue"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"HealthValue"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"20"
+		"ypos"										"3"
 		"zpos"										"5"
 		"wide"										"22"
 		"tall"										"22"
@@ -188,14 +186,14 @@
 		"enabled"									"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"homenajereg20"
+		"font"										"homenajereg12"
 		"fgcolor"									"Health Numbers"
-		"paintBackground"							"1"
-		"bgcolor_override"							"TransparentLightBlack"
+	//	"paintBackground"							"1"
+	//	"bgcolor_override"							"TransparentLightBlack"
 		"pin_to_sibling"							"HealthAnchor"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
-		"textinsetx"								"-5"
+		"textinsetx"								"0"
 	}
 
 	//==================================================================================================================================================
