@@ -68,11 +68,11 @@
 
 		"crosshair"
 		{
-				"file"	"vgui/replay/thumbnails/crosshairs/melee/bottle"
+				"file"	"vgui/replay/thumbnails/crosshairs/melee/crossingguard"
 				"x"		"0"
 				"y"		"0"
-				"width"		"64"
-				"height"	"32"
+				"width"		"128"
+				"height"	"64"
 		}
 		"autoaim"
 		{

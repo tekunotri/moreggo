@@ -75,7 +75,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/blank"
+				"file"		"vgui/replay/thumbnails/crosshairs/primary/ambassador"
 				"x"			"0"
 				"y"			"0"
 				"width"		"64"

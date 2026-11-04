@@ -5,8 +5,8 @@
 	//====================================================================================================================================================
 	"Version"
 	{
-		"label"										"m0re Classic"
-		"command"									"engine con_enable 1; toggleconsole"
+		"label"										"m0re-ggo"
+		"command"									"engine con_enable 1; toggleconsole; echo by techno, weapon icons converted by dumufa; echo github.com/tekunotri/moreggo"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"

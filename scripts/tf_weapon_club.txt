@@ -71,7 +71,7 @@ WeaponData
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
-				"height"	"32"
+				"height"	"16"
 		}
 		"autoaim"
 		{

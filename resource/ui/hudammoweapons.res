@@ -43,6 +43,7 @@
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 		"textinsety"								"-3"
 	}
+	//TODO move code to hudplayerclass to make this not look like straight ass
 	"ammobox"
 	{
 		"ControlName"	"Panel"
