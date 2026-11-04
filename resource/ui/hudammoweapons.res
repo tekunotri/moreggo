@@ -41,7 +41,7 @@
 		"pin_to_sibling"							"AmmoAnchor"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
-		"textinsety"								"0"
+		"textinsety"								"-3"
 	}
 	"ammobox"
 	{

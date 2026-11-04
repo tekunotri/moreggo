@@ -42,6 +42,22 @@
 		"image"										"../hud/class_spy_outline"
 		"scaleImage"								"1"
 	}
+	"Crosshair"
+	{
+		"controlName"		"ImagePanel"
+		"fieldName"			"Crosshair"
+		"zpos"				"0"
+		"xpos"		        "cs-0.5"
+		"ypos"		        "cs-0.5"
+		"wide"				"32"
+		"tall"				"32"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"replay/thumbnails/crosshair"
+		"scaleImage"		"1"
+		"visible_minmode"	"1"
+		"drawcolor"			"White"
+	}
 	"classmodelpanel"
 	{
 		"ControlName"								"CTFPlayerModelPanel"

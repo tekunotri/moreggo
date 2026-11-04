@@ -33,6 +33,36 @@
 		"enabled"									"1"
 		"alpha"										"0"
 	}
+	"humanbox"
+	{
+		"ControlName"	"Panel"
+		"fieldName"	"humanbox"
+		"tall"		"22"
+		"wide"		"22"
+		"xpos"		"23"
+		"ypos"		"0"
+		"zpos"		"-22"
+		"paintBackground"			"1"
+		"bgcolor_override"			"TransparentLightBlack"
+		"pin_to_sibling"			"healthbox"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPLEFT"
+	}
+	"ggohuman"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ggohuman"
+		"tall"			"18"
+		"wide"			"18"
+		"xpos"			"-3"
+		"ypos"			"-2"
+		"image"			"replay/thumbnails/ggohuman"
+		"scaleImage"	"1"
+		"pin_to_sibling"			"humanbox"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPLEFT"
+	}
+
 	"healthbox"
 	{
 		"ControlName"	"Panel"
