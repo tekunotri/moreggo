@@ -8,8 +8,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"UberAnchor"
-		"xpos"										"c175"
-		"ypos"										"c95"
+		"xpos"										"rs1-120"
+		"ypos"										"rs1-23"
 		"zpos"										"0"
 		"wide"										"2"
 		"tall"										"80"
@@ -33,7 +33,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
+		"labelText"									"%charge%"
 		"textAlignment"								"center"
 		"font"										"homenajereg18Shadow"
 		"fgcolor"									"Ubercharge"
@@ -47,63 +47,24 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabelBig"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-16"
+		"ypos"										"-3"
 		"zpos"										"2"
 		"wide"										"200"
 		"tall"										"80"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
+		"labelText"									"%charge%"
 		"textAlignment"								"center"
-		"font"										"homenajereg58"
+		"font"										"homenajereg20"
 		"fgcolor"									"Ubercharge"
 
 		"pin_to_sibling"							"UberAnchor"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
-	"ChargeLabelBigShadow"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabelBigShadow"
-		"xpos"										"-2"
-		"ypos"										"-2"
-		"zpos"										"2"
-		"wide"										"200"
-		"tall"										"80"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
-		"textAlignment"								"center"
-		"font"										"homenajereg58"
-		"fgcolor"									"Black"
-
-		"pin_to_sibling"							"ChargeLabelBig"
-	}
-	"ChargeLabelBigShadowExtra"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabelBigShadowExtra"
-		"xpos"										"-1"
-		"ypos"										"-1"
-		"zpos"										"2"
-		"wide"										"200"
-		"tall"										"80"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
-		"textAlignment"								"center"
-		"font"										"homenajereg58"
-		"fgcolor"									"Extra Shadow"
-		"alpha"										"0"
-
-		"pin_to_sibling"							"ChargeLabelBigShadow"
-	}
-
+	
 	//==================================================================================================================================================
 	// UBERCHARGE METER
 	//==================================================================================================================================================

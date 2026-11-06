@@ -4,21 +4,21 @@
 {
 	"HudItemEffectMeter"
 	{
-		"ypos"										"c185-11"
+		"ypos"										"rs1-41+8"
 	}
 	"ItemEffectMeter"
 	{
-		"xpos"										"0"
-		"wide"										"p0.497"
+		"xpos"										"1"
+		"wide"										"39"
 	}
 	"ItemEffectMeter2"
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ItemEffectMeter2"
-		"xpos"										"rs1"
-		"ypos"										"0"
+		"xpos"										"rs1-1"
+		"ypos"										"3"
 		"zpos"										"2"
-		"wide"										"p0.497"
+		"wide"										"39"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"

@@ -25,14 +25,14 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClip"
-		"xpos"										"0"
-		"ypos"										"-32"
-		"zpos"										"5"
-		"wide"										"22"
+		"xpos"										"-3"
+		"ypos"										"-33"
+		"zpos"										"19191919"
+		"wide"										"28"
 		"tall"										"22"
 		"visible"									"1"
 		"enabled"									"1"
-		"font"										"homenajereg20"
+		"font"										"homenajereg18"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Ammo In Clip"
@@ -43,7 +43,6 @@
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 		"textinsety"								"-3"
 	}
-	//TODO move code to hudplayerclass to make this not look like straight ass
 	//==================================================================================================================================================
 	// AMMO IN RESERVE
 	//==================================================================================================================================================
@@ -86,7 +85,7 @@
 		"font"										"homenajereg58"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"Ammo No Clip"
+		"fgcolor"									"Ammo In Clip"
 
 		"pin_to_sibling"							"AmmoAnchor"
 		"pin_corner_to_sibling"						"PIN_CENTER_TOP"

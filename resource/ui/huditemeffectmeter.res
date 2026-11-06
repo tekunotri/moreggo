@@ -1,3 +1,5 @@
+//1 rs1-41
+//2 rs1-33
 "resource/ui/huditemeffectmeter.res"
 {
 	"HudItemEffectMeter"
@@ -5,12 +7,14 @@
 		"fieldName"									"HudItemEffectMeter"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"cs-0.5"
-		"ypos"										"c185"
-		"wide"										"140"
-		"tall"										"10"
+		"xpos"										"rs1-44"
+		"ypos"										"rs1-41"
+		"wide"										"80"
+		"tall"										"7.3"
 		"MeterFG"									"White"
 		"MeterBG"									"Gray"
+		"paintBackground"							"1"
+		"bgcolor_override"							"TransparentLightBlack"
 	}
 	"ItemEffectMeterLabel"
 	{
@@ -21,7 +25,7 @@
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"8"
-		"visible"									"1"
+		"visible"									"0"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_Ball"
@@ -34,9 +38,9 @@
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ItemEffectMeter"
 		"xpos"										"cs-0.5"
-		"ypos"										"0"
+		"ypos"										"3"
 		"zpos"										"2"
-		"wide"										"f0"
+		"wide"										"78"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"

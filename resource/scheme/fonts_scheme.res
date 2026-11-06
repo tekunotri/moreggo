@@ -2830,6 +2830,15 @@
 				"outline"									"1"
 			}
 		}
+		"homenajereg19"
+		{
+			"1"
+			{
+				"name"										"homenaje"
+				"tall"										"19"
+				"antialias"									"1"
+			}
+		}
 		"homenajereg20"
 		{
 			"1"
