@@ -62,6 +62,8 @@ event HudHealthDyingPulseStop
 
 	Animate	PlayerStatusHealthDyingBG				Alpha		"0"									Linear	0.0		0.0
 
+
+	Animate	healthbar								FgColor		"White"								Linear	0.0		0.0
 	Animate HealthValue								FgColor		"Health Numbers"					Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"0"									Linear	0.0		0.0
 
