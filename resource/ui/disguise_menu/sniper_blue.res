@@ -1,6 +1,6 @@
 #base "scout_red.res"
 
-"Resource/UI/Disguise_Menu/Sniper_Blue.res"
+"resource/ui/disguise_menu/sniper_blue.res"
 {
 	"ClassIcon"
 	{

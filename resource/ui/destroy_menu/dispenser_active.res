@@ -1,6 +1,6 @@
 #base "base_active.res"
 
-"Resource/UI/Destroy_Menu/Dispenser_Active.res"
+"resource/ui/destroy_menu/dispenser_active.res"
 {
 	"BuildingIcon"
 	{

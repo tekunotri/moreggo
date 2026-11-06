@@ -1,6 +1,6 @@
 // CBA To make this any better
 
-"Resource/Tug_Of_War/Tug_Of_War_HUD.res"
+"resource/tug_of_war/tug_of_war_hud.res"
 {
 	"ObjectiveStatusRobotDestruction"
 	{

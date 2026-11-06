@@ -1,4 +1,4 @@
-"Resource/UI/Notifications/Base_Notification.res"
+"resource/ui/notifications/base_notification.res"
 {
 	"Notification_Label"
 	{

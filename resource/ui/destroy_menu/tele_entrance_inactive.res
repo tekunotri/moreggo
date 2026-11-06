@@ -1,6 +1,6 @@
 #base "base_inactive.res"
 
-"Resource/UI/Destroy_Menu/Tele_Entrance_Inactive.res"
+"resource/ui/destroy_menu/tele_entrance_inactive.res"
 {
 	"BuildingIcon"
 	{

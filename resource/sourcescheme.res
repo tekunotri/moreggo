@@ -1,4 +1,4 @@
-#base "SourceSchemeBase.res"
+#base "sourceschemebase.res"
 
 "Scheme"
 {

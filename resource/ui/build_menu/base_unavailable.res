@@ -1,6 +1,6 @@
 #base "base_active.res"
 
-"Resource/UI/Build_Menu/Base_Unavailable.res"
+"resource/ui/build_menu/base_unavailable.res"
 {
 	"CantBuildReason"
 	{

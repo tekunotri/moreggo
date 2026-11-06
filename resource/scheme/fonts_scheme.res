@@ -2948,7 +2948,7 @@
 		"2"				"resource/tfd.ttf"
 		"3"
 		{
-			"font"		"resource/TF2.ttf"
+			"font"		"resource/tf2.ttf"
 			"name"		"TF2"
 
 			"russian"
@@ -2962,7 +2962,7 @@
 		}
 		"4"
 		{
-			"font"		"resource/TF2Secondary.ttf"
+			"font"		"resource/tf2secondary.ttf"
 			"name"		"TF2 Secondary"
 
 			"russian"
@@ -2976,7 +2976,7 @@
 		}
 		"5"
 		{
-			"font"		"resource/TF2Professor.ttf"
+			"font"		"resource/tf2professor.ttf"
 			"name"		"TF2 Professor"
 
 			"russian"
@@ -2990,7 +2990,7 @@
 		}
 		"6"
 		{
-			"font"		"resource/TF2Build.ttf"
+			"font"		"resource/tf2build.ttf"
 			"name"		"TF2 Build"
 
 			"russian"

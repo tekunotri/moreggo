@@ -1,4 +1,4 @@
-"Resource/UI/Destroy_Menu/HudMenuEngyDestroy.res"
+"resource/ui/destroy_menu/hudmenuengydestroy.res"
 {
 	"ItemsAnchor"
 	{

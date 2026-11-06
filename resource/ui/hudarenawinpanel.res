@@ -1,4 +1,4 @@
-"Resource/UI/HudArenaWinpanel.res"
+"resource/ui/hudarenawinpanel.res"
 {
 	"ArenaWinPanelScores"
 	{
